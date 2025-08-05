@@ -1,2 +1,1 @@
-# Apexplanet_Task1
-I created a basic webpage using HTML, CSS, and JavaScript, showcasing structure, styling, and interactivity. 🎬 Watch the demo video attached! Excited to keep learning and building more. #ApexPlanet #WebDevelopment #Internship #HTML #CSS #JavaScript
+Developed a basic interactive webpage using HTML, CSS, and JavaScript as part of my internship at ApexPlanet Software Pvt. Ltd. This project helped me understand the structure, styling, and interactivity of web elements, strengthening my foundation in front-end development.
